@@ -1,0 +1,11 @@
+
+langchain
+langchain-core
+langchain-community
+langchain-text-splitters
+langchain-qdrant
+langchain-nvidia-ai-endpoints
+qdrant-client
+fastembed
+pypdf
+python-dotenv
